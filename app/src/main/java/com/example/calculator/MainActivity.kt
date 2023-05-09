@@ -100,7 +100,7 @@ fun Calculator(){
                 fontFamily = FontFamily.Serif,
                 fontWeight = FontWeight.Normal,
                 modifier = Modifier
-                    .padding(top = 40.dp)
+                    .padding(top = 40.dp).
             )
         }
     }
