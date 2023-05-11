@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">Calculator</string>
-    <string name="title">Calculate Tip</string>
-    <string name="result">Tip Amount: $</string>
-    <string name="cost">Cost of Service</string>
+    <string name="title">Calculadora de Gorjetas</string>
+    <string name="result">Valor da Gorjeta:</string>
+    <string name="cost">Custo do Serviço</string>
+    <string name="porcent"> Porcentagem da Gorjeta</string>
 </resources>
